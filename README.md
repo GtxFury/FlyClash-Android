@@ -113,6 +113,13 @@ FlyClash 支持标准的 Clash 配置格式：
 - [Material Design Icons](https://materialdesignicons.com/) - 精美的图标资源
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - 图表组件
 
+## 🤝支持我们
+
+有你的支持FlyClash项目会变得更好
+```bash
+TJY86BFF9NMFKLw7izNTC1RiRUKDdQndra
+```
+usdt trc20
 
 ## ⚠️ 免责声明
 
